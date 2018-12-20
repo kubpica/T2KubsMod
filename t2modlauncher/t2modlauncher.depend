@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523984974 source:c:\users\kubpica\desktop\c++zadania\powtorka\t2modlauncher\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<iostream>
+	<tlhelp32.h>
+	<fstream>
+
+1523985160 source:c:\users\kubpica\desktop\c++zadania\powtorka\t2modlauncher\resource.rc
+
