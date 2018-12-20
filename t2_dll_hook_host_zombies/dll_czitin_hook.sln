@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll_czitin_hook", "dll_czitin_hook\dll_czitin_hook.vcxproj", "{18E4E214-8D48-47FE-BDEE-8B824133874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E4E214-8D48-47FE-BDEE-8B824133874A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18E4E214-8D48-47FE-BDEE-8B824133874A}.Debug|Win32.Build.0 = Debug|Win32
+		{18E4E214-8D48-47FE-BDEE-8B824133874A}.Release|Win32.ActiveCfg = Release|Win32
+		{18E4E214-8D48-47FE-BDEE-8B824133874A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

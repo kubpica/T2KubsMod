@@ -1,0 +1,37 @@
+﻿  md5.cpp
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\md5.cpp(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: zobacz deklarację „sprintf”
+  main.cpp
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(380): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(406): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(414): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(579): warning C4129: "/": nierozpoznany znak sekwencji ucieczki
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(741): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(812): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(849): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(910): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(915): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(920): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(853): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(854): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(855): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(870): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(934): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(941): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\main.cpp(994): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+  Generowanie kodu...
+c:\users\kubpica\desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\dll_czitin_hook\md5.cpp(353): warning C4717: "operator<<": cykliczne we wszystkich ścieżkach przepływu, funkcja spowoduje przepełnienie stosu w trakcie wykonywania
+main.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/INCREMENTAL:NO”
+  dll_czitin_hook.vcxproj -> C:\Users\Kubpica\Desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\Debug\dll_czitin_hook.dll
+  dll_czitin_hook.vcxproj -> C:\Users\Kubpica\Desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\Debug\dll_czitin_hook.pdb (Partial PDB)

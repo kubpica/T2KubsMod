@@ -1,0 +1,37 @@
+﻿  main.cpp
+main.cpp(294): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(442): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(579): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(605): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(613): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+main.cpp(785): warning C4129: "/": nierozpoznany znak sekwencji ucieczki
+main.cpp(998): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1196): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+main.cpp(1217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1257): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(1262): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(1267): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+main.cpp(1281): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: zobacz deklarację „strcpy”
+main.cpp(1200): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+main.cpp(1201): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+main.cpp(1202): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: zobacz deklarację „freopen”
+  Trwa generowanie kodu
+  53 of 2359 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    61 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  dll_czitin_hook.vcxproj -> C:\Users\Kubpica\Desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\Release\dll_czitin_hook.dll
+  dll_czitin_hook.vcxproj -> C:\Users\Kubpica\Desktop\cpp_projektyt2\dll_czitin_hook_host_zombies\Release\dll_czitin_hook.pdb (Full PDB)
