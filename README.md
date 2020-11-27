@@ -4,3 +4,5 @@ Modyfikacja do gry Turok2. Jest to gra z 1998 i nie ma żadnego API więc wszyst
 Od razu mówię, że nie jestem dumny z tego jak ten kod wygląda :P Dzisiaj napisałbym to przejrzyściej i prawdopodobnie obiektowo.
 
 Opis modyfikacji: https://www.turokforums.com/index.php?topic=526.0
+
+Yes I know the code looks terrifying. I was a novice programmer when I wrote this so it's not easy to read.
