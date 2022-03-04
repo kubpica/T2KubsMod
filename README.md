@@ -2,7 +2,7 @@
 Mod for original T2 PC multiplayer (1998).
 Description of the modification: https://www.turokforums.com/index.php?topic=526.0
 
-Sorry for uploading so much trash to this repo the actuall code is one .cpp file here: https://github.com/kubpica/T2KubsMod/blob/master/t2_dll_hook_client/dll_czitin_hook/main_10_prerelease25.cpp
+Sorry for uploading so much trash to this repo the actual code is one .cpp file here: https://github.com/kubpica/T2KubsMod/blob/master/t2_dll_hook_client/dll_czitin_hook/main_10_prerelease25.cpp
 
 # How do you mod Turok?
 I use Cheat Engine to find intresting (addresses of) variables and functions, then I go to Ida just to check what it says about function I found (what type of function it is, how many arguments and of what type it thinks it is), then I code: I detour function using detours library, so I can add my own code before/after/instead-of function execution, I can read and change it's parameters and what it returns. Sometimes I make "mid function hook" when I can't detour function for some reason or I need to do some code in a specific place in the middle of the function execution. I also edited some functions by overwriting its assembler code byte by byte (some minor changes eg. to make some "if"/jmp always or never execute). I compile my code to .dll file and my Turok launcher injects it into game's memory.
