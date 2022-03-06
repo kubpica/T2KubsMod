@@ -17,6 +17,6 @@ Some things in the code are very low level like changing single bytes in the gam
 
 # Polish
 Modyfikacja do gry Turok2. Jest to gra z 1998 i nie ma żadnego API więc wszystko zostało zrobione na zasadzie edytowania pamięci gry i wstrzykiwania do niej własnego kodu (dll injection, function hooking, function detouring).
-Filmik prezentujący niektóre funkcje moda: https://www.youtube.com/watch?v=1AdCIsdHNWQ
+Filmik prezentujący niektóre funkcje moda: https://www.youtube.com/watch?v=-cto3fIOtC0
 
 Od razu mówię, że nie jestem dumny z tego jak ten kod wygląda :P Dzisiaj napisałbym to przejrzyściej i prawdopodobnie obiektowo.
