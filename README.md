@@ -1,7 +1,7 @@
 # T2 kub's mod
 Mod for original T2 PC multiplayer (1998).
 Description of the modification: https://www.turokforums.com/index.php?topic=526.0
-YouTube presentation of the mod: https://www.youtube.com/watch?v=1AdCIsdHNWQ
+YouTube presentation of some features of the mod: https://www.youtube.com/watch?v=1AdCIsdHNWQ
 
 Sorry for uploading so much trash to this repo, the most important part is this .cpp file here: https://github.com/kubpica/T2KubsMod/blob/master/t2_dll_hook_client/dll_czitin_hook/main_10_prerelease25.cpp
 And Yes I know the code looks terrifying. I was a novice programmer when I started this project so it's not easy to read.
@@ -18,3 +18,4 @@ Some things in the code are very low level like changing single bytes in the gam
 Modyfikacja do gry Turok2. Jest to gra z 1998 i nie ma żadnego API więc wszystko zostało zrobione na zasadzie edytowania pamięci gry i wstrzykiwania do niej własnego kodu (dll injection, function hooking, function detouring).
 
 Od razu mówię, że nie jestem dumny z tego jak ten kod wygląda :P Dzisiaj napisałbym to przejrzyściej i prawdopodobnie obiektowo.
+Filmik prezentujący niektóre funkcje moda: https://www.youtube.com/watch?v=1AdCIsdHNWQ
